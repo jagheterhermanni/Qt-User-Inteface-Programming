@@ -1,3 +1,0 @@
-set(__QT_DEPLOY_TARGETS "appharjoitus1")
-set(__QT_DEPLOY_TARGET_appharjoitus1_FILE /home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug/appharjoitus1)
-set(__QT_DEPLOY_TARGET_appharjoitus1_TYPE EXECUTABLE)
