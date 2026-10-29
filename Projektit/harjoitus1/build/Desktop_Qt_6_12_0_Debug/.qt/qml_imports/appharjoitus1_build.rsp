@@ -1,0 +1,14 @@
+-rootPath
+/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1
+-cmake-output
+-output-file
+/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug/.qt/qml_imports/appharjoitus1_build.cmake
+-importPath
+/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug
+-importPath
+/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug/harjoitus1
+-importPath
+/home/jagheterhermanni/Qt/6.12.0/gcc_64/qml
+-qrcFiles
+/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug/.qt/rcc/qmake_harjoitus1.qrc
+/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug/.qt/rcc/appharjoitus1_raw_qml_0.qrc

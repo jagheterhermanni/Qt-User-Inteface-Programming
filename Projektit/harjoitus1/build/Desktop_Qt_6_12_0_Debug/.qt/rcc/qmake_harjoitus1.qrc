@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/harjoitus1">
+    <file alias="qmldir">/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/harjoitus1/build/Desktop_Qt_6_12_0_Debug/harjoitus1/qmldir</file>
+  </qresource>
+</RCC>
+

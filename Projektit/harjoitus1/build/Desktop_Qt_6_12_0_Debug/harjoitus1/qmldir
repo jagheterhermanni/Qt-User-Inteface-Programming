@@ -1,0 +1,6 @@
+module harjoitus1
+typeinfo appharjoitus1.qmltypes
+prefer :/qt/qml/harjoitus1/
+Main 254.0 Main.qml
+depends QtQuick
+
