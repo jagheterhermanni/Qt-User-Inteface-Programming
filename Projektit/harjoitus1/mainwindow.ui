@@ -11,7 +11,13 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>firstWindow</string>
+  </property>
+  <property name="windowOpacity">
+   <double>-2.000000000000000</double>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
   </property>
   <widget class="QWidget" name="centralwidget"/>
   <widget class="QMenuBar" name="menubar">
