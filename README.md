@@ -6,4 +6,6 @@ This course is part of my Engineering studies at Kajaani University of Applied S
 ### Week 1 / 26.10. - 1.11.2026
 * 2x 1,5h lessons
 
-I installed Qt Creator, created first project and set up the git project.
+I installed Qt Creator, and created new project.
+
+* Named the project "harjoitus1" (exercise1), selected "Qt Widget Application" as the project type, and ``qmake`` for Build system.
