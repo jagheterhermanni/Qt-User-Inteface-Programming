@@ -9,3 +9,10 @@ This course is part of my Engineering studies at Kajaani University of Applied S
 I installed Qt Creator, and created new project.
 
 * Named the project "harjoitus1" (exercise1), selected "Qt Widget Application" as the project type, and ``qmake`` for Build system.
+
+* I made the "harjoitus1", but I ran out of time before deadline, and it ended up a bit broken.  
+
+### Week 2 / 2.11. - 8.11.2026
+* 2x 1,5h lessons
+
+
