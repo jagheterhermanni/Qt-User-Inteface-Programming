@@ -15,6 +15,9 @@ public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow() override;
 
+private slots:
+    void onCalculate();
+
 private:
     Ui::MainWindow *ui;
 };
