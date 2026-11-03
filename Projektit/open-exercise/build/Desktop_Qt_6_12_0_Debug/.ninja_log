@@ -1,0 +1,9 @@
+# ninja log v6
+8	559	1793688558737486587	open-exercise_autogen/timestamp	94ff148e9420d98a
+8	559	1793688558737486587	open-exercise_autogen/mocs_compilation.cpp	94ff148e9420d98a
+8	559	1793688558737486587	/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/open-exercise/build/Desktop_Qt_6_12_0_Debug/open-exercise_autogen/timestamp	94ff148e9420d98a
+8	559	1793688558737486587	/home/jagheterhermanni/Koulumateriaali/QT-ohjelmointi/Projektit/open-exercise/build/Desktop_Qt_6_12_0_Debug/open-exercise_autogen/mocs_compilation.cpp	94ff148e9420d98a
+560	3832	1793688558747644839	CMakeFiles/open-exercise.dir/open-exercise_autogen/mocs_compilation.cpp.o	1a5150117108a654
+561	4021	1793688558748486551	CMakeFiles/open-exercise.dir/main.cpp.o	9a98bf128a3ae060
+561	4261	1793688558749955017	CMakeFiles/open-exercise.dir/mainwindow.cpp.o	afca9fd6e533724d
+4261	4916	1793688562448474500	open-exercise	67a61478bfdaad94
