@@ -20,3 +20,7 @@ I installed `Qt Creator`, and created new project.
 * I made the `Harjoitus1` again, starting from scratch, and managed to get it properly working and updated the design a bit.
 
 * I started to focus on next task, called `TEHTÄVÄ (essee), Käyttöliittymät käytännössä`, roughly translated to `TASK (essee), User interfaces in use`. The instructions were to find and choose 3 user interfaces which has in someways bad UI design.
+
+* User interfaces I chose
+    * Tuudo
+    * 
